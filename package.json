@@ -35,6 +35,6 @@
     "fork-ts-checker-webpack-plugin": "1.0.1",
     "prettier": "1.16.4",
     "redux-devtools-extension": "2.13.8",
-    "typescript": "3.4.1"
+    "typescript": "3.4.5"
   }
 }
